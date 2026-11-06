@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792787331|2885462087';
+const CACHE_VERSION = '1794000161|39293413';
 /** @type {string} */
 const CACHE_PREFIX = 'Monking-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
